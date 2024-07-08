@@ -1,0 +1,6 @@
+@Prueba_TCIT.Server_HostAddress = http://localhost:5056
+
+GET {{Prueba_TCIT.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
